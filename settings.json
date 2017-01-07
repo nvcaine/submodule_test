@@ -1,0 +1,12 @@
+{
+	"appURL": "http://localhost/submodule_test/",
+	"defaultSection": "index",
+	"sections": [{
+		"sectionName": "index",
+		"title": "Git submodule test"
+	}, {
+		"sectionName": "section_2",
+		"menuLabel": "Section 2",
+		"title": "Git submodule test"
+	}]
+}
