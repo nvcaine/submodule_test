@@ -5,8 +5,7 @@
 
 <body>
 
-	<header>
-	</header>
+	<header></header>
 
 	<main class="container">
 

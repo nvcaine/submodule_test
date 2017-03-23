@@ -4,7 +4,7 @@
 
 	<title>{$title}</title>
 
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+	<!--<link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>-->
 
 	{if isset($styles)}
 		{foreach from=$styles item=style}
