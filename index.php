@@ -1,5 +1,5 @@
 <?php
-require_once("libs/smarty-3.0.8/libs/Smarty.class.php");
+//require_once("libs/smarty-3.0.8/libs/Smarty.class.php");
 require_once("framework/main.php");
 
 $appInit = new AppInit("framework"); // initialize the framework
